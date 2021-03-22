@@ -8,10 +8,11 @@ import Image from '../components/hero/image';
 const HomePage = () => {
   return(
     <>
-      <Title />
+      {/* <Title />
       <Description />
       <Link />
-      <Image />
+      <Image /> */}
+      <h1>heeeeeee</h1>
     </>
   )
 }
