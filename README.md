@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# The MailChimp Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This app is created as a result of an application process for a paid intership opportunity
+
+## Run project locally
+
+- `git clone https://github.com/addod19/mailchimp.git`
+- ` yarn install `
+- ` yarn start `
+
+
+## Social media handles
+
+- [github](https://github.com/addod19/)
+- [linkedIn](https://www.linkedin.com/in/daniel-larbi-addo/)
+- [portfolio](https://daniellarbiaddo.com)
+- [angellist](https://angel.co/u/daniel-larbi-addo)
+
 
 ## Available Scripts
 
