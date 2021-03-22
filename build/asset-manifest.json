@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mailchimp/static/css/main.3eede10e.chunk.css",
+    "main.js": "/mailchimp/static/js/main.1511b3d7.chunk.js",
+    "main.js.map": "/mailchimp/static/js/main.1511b3d7.chunk.js.map",
+    "runtime-main.js": "/mailchimp/static/js/runtime-main.5fcdfbed.js",
+    "runtime-main.js.map": "/mailchimp/static/js/runtime-main.5fcdfbed.js.map",
+    "static/js/2.26cccd47.chunk.js": "/mailchimp/static/js/2.26cccd47.chunk.js",
+    "static/js/2.26cccd47.chunk.js.map": "/mailchimp/static/js/2.26cccd47.chunk.js.map",
+    "index.html": "/mailchimp/index.html",
+    "static/css/main.3eede10e.chunk.css.map": "/mailchimp/static/css/main.3eede10e.chunk.css.map",
+    "static/js/2.26cccd47.chunk.js.LICENSE.txt": "/mailchimp/static/js/2.26cccd47.chunk.js.LICENSE.txt",
+    "static/media/DF1.16c34726.png": "/mailchimp/static/media/DF1.16c34726.png",
+    "static/media/MANAGE.3741ab36.png": "/mailchimp/static/media/MANAGE.3741ab36.png",
+    "static/media/automate.19aa6032.png": "/mailchimp/static/media/automate.19aa6032.png",
+    "static/media/betterc.db832484.png": "/mailchimp/static/media/betterc.db832484.png",
+    "static/media/market.a02da931.png": "/mailchimp/static/media/market.a02da931.png",
+    "static/media/nbb.5deeed3b.png": "/mailchimp/static/media/nbb.5deeed3b.png",
+    "static/media/rightp.fbec23fd.png": "/mailchimp/static/media/rightp.fbec23fd.png",
+    "static/media/takeaction.d7c905e2.png": "/mailchimp/static/media/takeaction.d7c905e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fcdfbed.js",
+    "static/js/2.26cccd47.chunk.js",
+    "static/css/main.3eede10e.chunk.css",
+    "static/js/main.1511b3d7.chunk.js"
+  ]
+}
