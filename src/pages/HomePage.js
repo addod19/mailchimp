@@ -9,6 +9,8 @@ import Image from '../components/hero/image';
 import HeadLiner from '../components/headliner/headLiner';
 import GetBusiness from '../components/business/getBusiness';
 import MarketBusiness from '../components/business/marketBusiness';
+import Help from '../components/help';
+import Grow from '../components/grow';
 
 const HomeSection = styled.section`
   width: 100%;
@@ -41,6 +43,8 @@ const HomePage = () => {
     <HeadLiner />
     <GetBusiness />
     <MarketBusiness />
+    <Help />
+    <Grow />
     </>
   )
 }
