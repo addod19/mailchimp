@@ -8,6 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - ` yarn install `
 - ` yarn start `
 
+## My Clone so far
+<img src="assets/images/clonemail.png" alt="clone" />
+
+## Source hero and Nav
+<img src="assets/images/mail.png" alt="source" >
 
 ## Social media handles
 
