@@ -1,7 +1,13 @@
+import React from 'react';
+
+import Nav from './components/navbar/nav';
+import HomePage from './pages/HomePage'
+
 const App = () => {
   return (
     <>
-      <h1>THis is the beginning of the mailchimp clone site</h1>
+      <Nav />
+      <HomePage />
     </>
   );
 }
