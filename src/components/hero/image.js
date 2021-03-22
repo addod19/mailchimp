@@ -1,18 +1,29 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-const Image = (direction, description) => {
+import direction from '../../assets/images/DF1.png'
+
+import styled from 'styled-components';
+
+const ImgPos = styled.div`
+  position: relative;
+  top: 30%;
+`;
+
+const Img = styled.img`
+  width: 350px;
+  height: 320px;
+  position: relative;
+  top: 30%;
+  left: 10%;
+`;
+
+const Image = () => {
   return(
-    <>
-      <img src={direction} alt={description} />
-    </>
+    <ImgPos>
+      <Img src={direction} alt="main image" />
+    </ImgPos>
   )
 }
-
-Image.propTypes = {
-  direction: PropTypes.string.isRequired,
-  description: PropTypes.string.isRequired
-};
 
 
 export default Image;

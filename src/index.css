@@ -3,3 +3,10 @@
   position: relative;
   top: 30%;
 }
+
+.logoStyle {
+  width: 100px;
+  height: 200px;
+  position: relative;
+  left: 10%;
+}

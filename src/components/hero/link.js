@@ -1,8 +1,13 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 import styled from 'styled-components';
 
+const LinkWrap = styled.div`
+  width: 60%;
+  position: relative;
+  top: 35%;
+  left: 25%; 
+`;
 const Anchor = styled.a`
   width: 100px;
   height: auto;
@@ -12,23 +17,19 @@ const Anchor = styled.a`
   font-weight: 600;
   font-size: .9375rem;
   padding: 1.25rem 2.5rem;
+  text-decoration: none;
 `;
 
 
-const Link = ({name, direction}) => {
+const Link = () => {
   return(
-    <>
-      <Anchor href={direction}>
-       {name}
+    <LinkWrap>
+      <Anchor href="#">
+       Pick a Plan
       </Anchor>
-    </>
+    </LinkWrap>
   )
 }
-
-Link.propTypes = {
-  name: PropTypes.string.isRequired,
-  direction: PropTypes.string.isRequired
-};
 
 
 export default Link;

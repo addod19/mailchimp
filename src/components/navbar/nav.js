@@ -8,11 +8,15 @@ import logo from '../../assets/images/DF1.png';
 const NavBar = styled.nav`
   width: 100%;
   min-height: 45px;
-  background: yellow;
+  background: #fcc203;
   color: black;
   display: flex;
   flex-direction: row;
   overflow-x: hidden;
+
+  &:hover {
+    background: white;
+  }
 `;
 
 const LeftLinks = styled.section`
@@ -64,6 +68,12 @@ const LoginBtn = styled.button`
   width: 100px;
   height: 45px;
   border: 1px solid black;
+  background: #fcc203;
+
+  &:hover {
+    background: white;
+    cursor: pointer;
+  }
 `;
 
 const SignupBtn = styled.button`
@@ -72,6 +82,12 @@ const SignupBtn = styled.button`
   background: blue;
   border: none;
   color: white;
+  background: #007c89;
+
+  &:hover {
+    cursor: pointer;
+    opacity: .8;
+  }
 `;
 
 const ImgLogo = styled.img`

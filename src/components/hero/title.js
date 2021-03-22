@@ -1,17 +1,23 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-const Title = (name) => {
+import styled from 'styled-components';
+
+const Text1 = styled.div`
+  width: 40%;
+  position: relative;
+  top: 30%;
+  left: 25%;
+`;
+
+const H1 = styled.h1`
+  font-size: 2em;
+`;
+const Title = () => {
   return(
-    <>
-      <h1> {name} </h1>
-    </>
+    <Text1>
+      <H1> Marketing Smarts for Big Ideas</H1>
+    </Text1>
   )
 }
-
-Title.propTypes = {
-  name: PropTypes.string.isRequired
-}
-
 
 export default Title;
