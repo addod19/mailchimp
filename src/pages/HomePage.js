@@ -6,6 +6,8 @@ import Title from '../components/hero/title';
 import Description from '../components/hero/description';
 import Link from '../components/hero/link';
 import Image from '../components/hero/image';
+import HeadLiner from '../components/headliner/headLiner';
+import GetBusiness from '../components/business/getBusiness';
 
 const HomeSection = styled.section`
   width: 100%;
@@ -24,6 +26,7 @@ const SecondColumn = styled.section`
 `;
 const HomePage = () => {
   return(
+    <>
     <HomeSection>
       <FirstColumn>
         <Title />
@@ -34,6 +37,9 @@ const HomePage = () => {
         <Image className="logoStyle" />
       </SecondColumn> 
     </HomeSection>
+    <HeadLiner />
+    <GetBusiness />
+    </>
   )
 }
 
