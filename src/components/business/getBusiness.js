@@ -80,7 +80,7 @@ const GetBusiness = () => {
             <PDescription>
               Give your brand a home with a custom domain.
               Then create a website with built-in marketing tools
-              to help you launch it
+              to help you launch it.
             </PDescription>
           </Description>
           <Links>

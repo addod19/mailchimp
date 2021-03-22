@@ -8,6 +8,7 @@ import Link from '../components/hero/link';
 import Image from '../components/hero/image';
 import HeadLiner from '../components/headliner/headLiner';
 import GetBusiness from '../components/business/getBusiness';
+import MarketBusiness from '../components/business/marketBusiness';
 
 const HomeSection = styled.section`
   width: 100%;
@@ -39,6 +40,7 @@ const HomePage = () => {
     </HomeSection>
     <HeadLiner />
     <GetBusiness />
+    <MarketBusiness />
     </>
   )
 }
