@@ -12,6 +12,7 @@ import MarketBusiness from '../components/business/marketBusiness';
 import Help from '../components/help';
 import Grow from '../components/grow';
 import Keep from '../components/keep';
+import SeeHow from '../components/seehow';
 
 const HomeSection = styled.section`
   width: 100%;
@@ -47,6 +48,7 @@ const HomePage = () => {
     <Help />
     <Grow />
     <Keep />
+    <SeeHow />
     </>
   )
 }
