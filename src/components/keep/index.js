@@ -16,9 +16,12 @@ const Title = styled.h1`
 const Description = styled.p`
   width: 70%;
   margin: auto;
-  padding: 30px;
+  padding: 5px;
   text-align: center;
   font-size: 24px;
+
+  position: relative;
+  left: -20%;
 `;
 
 const Partners = styled.div`
@@ -32,7 +35,9 @@ const Partners = styled.div`
 `;
 
 const LOGO = styled.img``;
-const Text = styled.p``;
+const Text = styled.p`
+  
+`;
 const NewBB = styled.article`
   align-items: center;
 `;
@@ -45,7 +50,9 @@ const TEDD = styled.article``;
 
 const MainWrap = styled.section``;
 const TitleWrap = styled.div``;
-const Link = styled.li``;
+const Link = styled.li`
+  list-style: none;
+`;
 const Keep = () => {
   return(
     <>
