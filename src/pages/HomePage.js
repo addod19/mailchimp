@@ -13,6 +13,10 @@ import Help from '../components/help';
 import Grow from '../components/grow';
 import Keep from '../components/keep';
 import SeeHow from '../components/seehow';
+import Stats from '../components/stats';
+import Stack from '../components/stack';
+// import ImgStack from '../components/ImgStack';
+import Footer from '../components/footer';
 
 const HomeSection = styled.section`
   width: 100%;
@@ -49,6 +53,9 @@ const HomePage = () => {
     <Grow />
     <Keep />
     <SeeHow />
+    <Stats />
+    <Stack />
+    <Footer />
     </>
   )
 }

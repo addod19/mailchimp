@@ -13,6 +13,7 @@ const Bg = styled.section`
   width: 100%;
   height: 2100px;
   background: #fbeeca;
+  margin-bottom: 20%;
 `;
 
 const SeeHow = () => {
