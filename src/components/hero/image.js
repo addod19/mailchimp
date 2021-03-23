@@ -1,6 +1,6 @@
 import React from 'react';
 
-import direction from '../../assets/images/DF1.png'
+import direction from '../../assets/images/logoh.png'
 
 import styled from 'styled-components';
 

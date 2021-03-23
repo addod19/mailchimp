@@ -3,7 +3,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import { FaSearch } from 'react-icons/fa';
-import logo from '../../assets/images/DF1.png';
+import logo from '../../assets/images/mailcly.png';
 
 const NavBar = styled.nav`
   width: 100%;
