@@ -7,7 +7,6 @@ import next from '../../assets/images/cvg.png';
 const ImgWrap = styled.section`
   width: 100%;
   position: relative;
-  // left: 30%;
   top: 3%;
 `;
 
