@@ -3,15 +3,15 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Links = styled.button`
-  width: 110px;
-  height: 45px;
+  width: 180px;
+  height: 65px;
   background: blue;
   border: none;
   color: white;
   background: #007c89;
 
   position: relative;
-  left: 46%;
+  left: 43%;
 
   &:hover {
     cursor: pointer;
@@ -19,6 +19,9 @@ const Links = styled.button`
   }
 `;
 
+const Li = styled.h3`
+  font-weight: 400;
+`;
 const Title = styled.div`
   width: 50%;
   position: relative;
@@ -53,7 +56,7 @@ const Row4 = () => {
         </Desc>
       </Description>
       <Links>
-        See All Smarts
+        <Li>See All Smarts</Li>
       </Links>
     </>
   )
