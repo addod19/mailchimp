@@ -17,20 +17,22 @@ import Stats from '../components/stats';
 import Stack from '../components/stack';
 // import ImgStack from '../components/ImgStack';
 import Footer from '../components/footer';
+import Yello from '../components/yello';
 
 const HomeSection = styled.section`
   width: 100%;
   min-height: 550px;
   display: flex;
   flex-direction: row;
+  background: #ffe01b;
 `;
 const FirstColumn = styled.section`
   width: 50%;
-  background: #fcc203;
+  background: #ffe01b;
 `;
 
 const SecondColumn = styled.section`
-  background: #fcc203;
+  background: #ffe01b;
   width: 50%;
 `;
 const HomePage = () => {
@@ -55,6 +57,7 @@ const HomePage = () => {
     <SeeHow />
     <Stats />
     <Stack />
+    <Yello />
     <Footer />
     </>
   )

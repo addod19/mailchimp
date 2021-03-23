@@ -8,7 +8,7 @@ import logo from '../../assets/images/mailcly.png';
 const NavBar = styled.nav`
   width: 100%;
   min-height: 45px;
-  background: #fcc203;
+  background: #ffe01b;
   color: black;
   display: flex;
   flex-direction: row;
@@ -68,7 +68,7 @@ const LoginBtn = styled.button`
   width: 100px;
   height: 45px;
   border: 1px solid black;
-  background: #fcc203;
+  background: #ffe01b;
 
   &:hover {
     background: white;
@@ -79,7 +79,6 @@ const LoginBtn = styled.button`
 const SignupBtn = styled.button`
   width: 110px;
   height: 45px;
-  background: blue;
   border: none;
   color: white;
   background: #007c89;
