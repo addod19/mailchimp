@@ -9,10 +9,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - ` yarn start `
 
 ## My Clone so far
-<img src="assets/images/clonemail.png" alt="clone" />
+![screenshot](clonemail.png)
 
 ## Source hero and Nav
-<img src="assets/images/mail.png" alt="source" >
+![screenshot](mail.png)
+
 
 ## Social media handles
 
@@ -20,6 +21,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [linkedIn](https://www.linkedin.com/in/daniel-larbi-addo/)
 - [portfolio](https://daniellarbiaddo.com)
 - [angellist](https://angel.co/u/daniel-larbi-addo)
+
+## Live link
+[mailchimp clone](https://goofy-hamilton-677d66.netlify.app/)
 
 
 ## Available Scripts
