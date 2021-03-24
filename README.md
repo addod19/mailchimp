@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This app is created as a result of an application process for a paid intership opportunity
 
+## V1
+Desktop App
+
+## V2
+Mobile App - check up soon
 ## Run project locally
 
 - `git clone https://github.com/addod19/mailchimp.git`
