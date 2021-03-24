@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,cAAe,CAEf,OACF,CAEA,iBAJE,iBASF,CALA,WACE,WAAY,CACZ,YAAa,CAEb,QACF","file":"main.3eede10e.chunk.css","sourcesContent":[".icon {\n  font-size: 22px;\n  position: relative;\n  top: 30%;\n}\n\n.logoStyle {\n  width: 100px;\n  height: 200px;\n  position: relative;\n  left: 10%;\n}"]}
