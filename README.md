@@ -9,7 +9,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - ` yarn start `
 
 ## My Clone so far
-![screenshot](clonemail.png)
+![screenshot](hiro.png)
+![screenshot](hiro1.png)
+![screenshot](hiro2.png)
+![screenshot](hiro3.png)
+![screenshot](hiro4.png)
+![screenshot](hiro5.png)
 
 ## Source hero and Nav
 ![screenshot](mail.png)
